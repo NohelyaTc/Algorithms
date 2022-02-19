@@ -1,0 +1,13 @@
+pandas
+scipy
+numpy
+geopy
+termcolor
+matplotlib
+shapely
+pyyaml
+IPython
+pprint
+pyre-check
+flake8
+pylint
